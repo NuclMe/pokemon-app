@@ -1,0 +1,13 @@
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.thumbsWrapper{
+    display:flex;
+    flex-wrap: wrap;
+
+}
+
+.layout{
+    background-color: red;
+}
